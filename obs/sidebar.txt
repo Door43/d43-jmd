@@ -9,17 +9,12 @@
 
   * [[jmd:obs|Open Bible Stories (jmd)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-jmd|d43-jmd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jmd/archive/master.zip|d43-jmd.zip]]
 
 **Recent Changes**
 {{changes>ns = jmd}}
-
-**Latest Status**
-{{page>en:uwadmin:jmd:obs:status}}
-
 
 **Language Information**
 
@@ -29,5 +24,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
   * [[jmd:obs|Open Bible Stories (jmd)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:jmd:obs:status}}
